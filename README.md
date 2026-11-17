@@ -9,6 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mohamed-mohaseen-web-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mmm.mohasin@gmail.com"><img src="https://img.shields.io/badge/Email-E4572E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/919994871801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://mohaseen-fullstackdev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1B1A17?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mohaseen-fullstackdev&label=Profile%20views&color=e4572e&style=for-the-badge" />
 </p>
@@ -96,7 +97,7 @@ const mohaseen = {
 
 <div align="center">
 
-**💬 Let's build something great together. Reach out on [LinkedIn](https://www.linkedin.com/in/mohamed-mohaseen-web-dev/) or [email](mailto:mmm.mohasin@gmail.com).**
+**💬 Let's build something great together. Reach out on [LinkedIn](https://www.linkedin.com/in/mohamed-mohaseen-web-dev/), [WhatsApp](https://wa.me/919994871801) or [email](mailto:mmm.mohasin@gmail.com).**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2b134,100:e4572e&height=110&section=footer" width="100%" />
 
